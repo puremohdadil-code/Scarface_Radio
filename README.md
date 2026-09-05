@@ -1,6 +1,6 @@
 # 🎙️ Scarface Radio
 
-A radio player application built in Assembly language, featuring a user interface for audio playback.
+A radio application built in Assembly language, featuring a user interface for audio playback.
 
 ## 📁 Project Structure
 
