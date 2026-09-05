@@ -1,0 +1,28 @@
+{
+  "image": "scarface-radio-sticker-sheet-alpha.png",
+  "source": "scarface-radio-sticker-sheet.png",
+  "size": { "width": 1536, "height": 1024 },
+  "notes": "Generated black-and-gold 1980s radio decal sheet. Coordinates are approximate crop boxes in pixels: x, y, width, height.",
+  "sprites": {
+    "main_faceplate": { "x": 24, "y": 42, "w": 815, "h": 430 },
+    "nameplate_scarface_radio": { "x": 860, "y": 48, "w": 648, "h": 116 },
+    "amber_lcd_display": { "x": 880, "y": 178, "w": 607, "h": 173 },
+    "frequency_ruler": { "x": 862, "y": 374, "w": 644, "h": 118 },
+    "gold_trim_plain": { "x": 35, "y": 498, "w": 817, "h": 39 },
+    "gold_trim_grooved": { "x": 35, "y": 562, "w": 817, "h": 40 },
+    "button_play": { "x": 36, "y": 625, "w": 203, "h": 111 },
+    "button_pause": { "x": 260, "y": 625, "w": 203, "h": 111 },
+    "button_stop": { "x": 483, "y": 625, "w": 203, "h": 111 },
+    "button_prev": { "x": 36, "y": 757, "w": 203, "h": 111 },
+    "button_next": { "x": 260, "y": 757, "w": 203, "h": 111 },
+    "button_scan": { "x": 483, "y": 757, "w": 203, "h": 111 },
+    "knob_vol": { "x": 738, "y": 646, "w": 166, "h": 166 },
+    "knob_tune": { "x": 927, "y": 646, "w": 166, "h": 166 },
+    "signal_meter": { "x": 704, "y": 836, "w": 395, "h": 138 },
+    "speaker_grille": { "x": 1128, "y": 576, "w": 367, "h": 382 },
+    "screw_small_1": { "x": 54, "y": 910, "w": 55, "h": 55 },
+    "screw_small_2": { "x": 138, "y": 910, "w": 55, "h": 55 },
+    "screw_small_3": { "x": 223, "y": 910, "w": 55, "h": 55 },
+    "screw_small_4": { "x": 307, "y": 910, "w": 55, "h": 55 }
+  }
+}
